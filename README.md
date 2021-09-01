@@ -1,3 +1,5 @@
-Me chamo Lucas Sousa, tenho 27 anos e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela UNICID.
+I'm Lucas Aster, 27 years old and actually im studying to become a web developer(Front and Back-end I wish).
 
-Meu foco inicial está sendo para desenvolvimento web.
+Focusing in improve my JavaScript, CSS3 and HTML5 skills and hope very soon to learn Dart and Flutter as well.
+
+Step by step, welcome to my GitHub !
