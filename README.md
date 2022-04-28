@@ -1,5 +1,8 @@
-I'm Lucas Aster, 27 years old and actually im studying to become a web developer(Front and Back-end I wish).
+# Welcome to my GitHub!
+>I'm a development student, current focused in NodeJS and Angular.
 
-Focusing in improve my JavaScript, CSS3 and HTML5 skills and hope very soon to learn Dart and Flutter as well.
-
-Step by step, welcome to my GitHub !
+### My Stack:
++ NodeJS
++ Angular
++ MongoDB
++ NodejS
