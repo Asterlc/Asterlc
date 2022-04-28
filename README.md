@@ -5,7 +5,7 @@
 + NodeJS.
 + Angular.
 + MongoDB.
-+ NodejS.
++ Express/HapiJS
 
 ## Projects
 
