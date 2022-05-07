@@ -6,7 +6,8 @@
 
 ## Projects
 
-+ [Forecast API](https://forecast-br.herokuapp.com/doc/) 
++ [Forecast API(doc swagger)](https://forecast-br.herokuapp.com/doc/) 
++ [Forecast Brasil](https://forecast-brasil.herokuapp.com/)
 > brings to you weather from  several counties in Brazil. Integration with open weather API. Counties data from IBGE.
 + [Heroes NodeJS](https://heroesnodejs.herokuapp.com/documentation) 
 > A multi database project where I learn how to deploy and use Strategy Pattern(my first deploy 😄).
